@@ -5,3 +5,5 @@ build/
 **/*.out
 **/*.o
 .DS_Store
+.devcontainer/
+.vscode/
